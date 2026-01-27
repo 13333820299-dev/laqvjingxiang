@@ -1,1 +1,1 @@
-from quay.io/grafana/loki:3.6.2
+From quay.io/grafana/loki:3.6.2
