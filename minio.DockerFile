@@ -1,1 +1,1 @@
-FROM minio/minio:latest
+FROM quy.io/minio/minio:latest
