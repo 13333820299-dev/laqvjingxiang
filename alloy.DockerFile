@@ -1,1 +1,1 @@
-FROM quay.io/grafana/alloy:v1.12.0
+FROM grafana/alloy:v1.12.0
