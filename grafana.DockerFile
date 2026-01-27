@@ -1,1 +1,1 @@
-FROM quay.io/grafana/grafana:12.3.0
+FROM grafana/grafana:12.3.0
