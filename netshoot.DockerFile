@@ -1,1 +1,1 @@
-FROM nicolaka/netshoot:v0.16
+FROM nicolaka/netshoot:latest
