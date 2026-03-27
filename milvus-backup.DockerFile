@@ -1,4 +1,4 @@
-FROM debian:12-slim
+FROM m.daocloud.io/docker.io/debian:12-slim
 
 ARG MILVUS_BACKUP_VERSION=v0.5.12
 ARG TARGETARCH
